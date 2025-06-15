@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eshwara\\Desktop\\PersonalPortfolio\\Backend\\Portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6A6D05-73D5-4033-B7B7-771A173AC706}|Portfolio.csproj|c:\\users\\eshwara\\desktop\\personalportfolio\\backend\\portfolio\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6A6D05-73D5-4033-B7B7-771A173AC706}|Portfolio.csproj|solutionrelative:controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6A6D05-73D5-4033-B7B7-771A173AC706}|Portfolio.csproj|c:\\users\\eshwara\\desktop\\personalportfolio\\backend\\portfolio\\services\\implementation\\portfoliodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6A6D05-73D5-4033-B7B7-771A173AC706}|Portfolio.csproj|solutionrelative:services\\implementation\\portfoliodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6A6D05-73D5-4033-B7B7-771A173AC706}|Portfolio.csproj|c:\\users\\eshwara\\desktop\\personalportfolio\\backend\\portfolio\\services\\interfaces\\iportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6A6D05-73D5-4033-B7B7-771A173AC706}|Portfolio.csproj|solutionrelative:services\\interfaces\\iportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6A6D05-73D5-4033-B7B7-771A173AC706}|Portfolio.csproj|c:\\users\\eshwara\\desktop\\personalportfolio\\backend\\portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C6A6D05-73D5-4033-B7B7-771A173AC706}|Portfolio.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6A6D05-73D5-4033-B7B7-771A173AC706}|Portfolio.csproj|c:\\users\\eshwara\\desktop\\personalportfolio\\backend\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6A6D05-73D5-4033-B7B7-771A173AC706}|Portfolio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6A6D05-73D5-4033-B7B7-771A173AC706}|Portfolio.csproj|c:\\users\\eshwara\\desktop\\personalportfolio\\backend\\portfolio\\models\\portfoliodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6A6D05-73D5-4033-B7B7-771A173AC706}|Portfolio.csproj|solutionrelative:models\\portfoliodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "C:\\Users\\Eshwara\\Desktop\\PersonalPortfolio\\Backend\\Portfolio\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PortfolioController.cs",
+              "ToolTip": "C:\\Users\\Eshwara\\Desktop\\PersonalPortfolio\\Backend\\Portfolio\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "Controllers\\PortfolioController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T00:09:28.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PortfolioDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Eshwara\\Desktop\\PersonalPortfolio\\Backend\\Portfolio\\Services\\Implementation\\PortfolioDAO.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\PortfolioDAO.cs",
+              "ToolTip": "C:\\Users\\Eshwara\\Desktop\\PersonalPortfolio\\Backend\\Portfolio\\Services\\Implementation\\PortfolioDAO.cs",
+              "RelativeToolTip": "Services\\Implementation\\PortfolioDAO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T23:55:58.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPortfolio.cs",
+              "DocumentMoniker": "C:\\Users\\Eshwara\\Desktop\\PersonalPortfolio\\Backend\\Portfolio\\Services\\Interfaces\\IPortfolio.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IPortfolio.cs",
+              "ToolTip": "C:\\Users\\Eshwara\\Desktop\\PersonalPortfolio\\Backend\\Portfolio\\Services\\Interfaces\\IPortfolio.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IPortfolio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T23:55:13.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PortfolioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Eshwara\\Desktop\\PersonalPortfolio\\Backend\\Portfolio\\Models\\PortfolioDTO.cs",
+              "RelativeDocumentMoniker": "Models\\PortfolioDTO.cs",
+              "ToolTip": "C:\\Users\\Eshwara\\Desktop\\PersonalPortfolio\\Backend\\Portfolio\\Models\\PortfolioDTO.cs",
+              "RelativeToolTip": "Models\\PortfolioDTO.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwDUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T23:50:51.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Eshwara\\Desktop\\PersonalPortfolio\\Backend\\Portfolio\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Eshwara\\Desktop\\PersonalPortfolio\\Backend\\Portfolio\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T23:46:34.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eshwara\\Desktop\\PersonalPortfolio\\Backend\\Portfolio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Eshwara\\Desktop\\PersonalPortfolio\\Backend\\Portfolio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T23:33:15.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
